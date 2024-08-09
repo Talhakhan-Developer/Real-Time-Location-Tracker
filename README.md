@@ -52,10 +52,11 @@ This project is a real-time location tracking application built with Node.js, So
 
 ### Installation
 
-1. Clone the repository to your local machine.
-   ```bash
-   git clone https://github.com/Talhakhan-Developer/Real-Time-Location-Tracker.git
-   ```
+#### 01 Clone the repository to your local machine.
+
+```bash
+git clone https://github.com/Talhakhan-Developer/Real-Time-Location-Tracker.git
+ ```
 
 #### 02 Navigate to the project directory:
 
